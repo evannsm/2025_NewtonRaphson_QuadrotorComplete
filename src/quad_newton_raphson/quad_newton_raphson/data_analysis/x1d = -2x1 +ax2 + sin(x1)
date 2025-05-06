@@ -1,0 +1,14 @@
+x1d = -2x1 +ax2 + sin(x1)
+x2d = -x2cos(x) + ucos(2x1)
+
+if we choose z1 = x1 we get z1d = -2z1 +ax2 + sin(z1)
+if we then choose z2 = ax2 + sin(z1) we can get rid of the nonlineraities in z1d and get
+z1d = -2z1 + z2
+z2d = -2z1cos(z1) + sinz1cosz1 + ucos(2z1)
+
+then u can be chosen so that we remain with z1d = -2z1 + z2
+z2d = v
+
+I understand the procedure.
+
+I just don't get why the z system is equivalent to the x system

@@ -1,0 +1,29 @@
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_hover.log
+--------------------------------------------------------------------------
+
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_CH.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_CHS.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_CV.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_F8H.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_F8VS.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_F8VT.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_HELIX.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_HELIX_SPIN.log
+
+--------------------------------------------------------------------------
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_triangle.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_sawtooth.log
+
+--------------------------------------------------------------------------
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_CH_2x.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_CHS_2x.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_CV_2x.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_F8H_2x.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_F8VS_2x.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_F8VT_2x.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_HELIX_2x.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_HELIX_SPIN_2x.log
+
+--------------------------------------------------------------------------
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_triangle_2x.log
+ros2 run quad_newton_raphson full_jax_nr_quad jax_flat_wardi_quad_sawtooth_2x.log

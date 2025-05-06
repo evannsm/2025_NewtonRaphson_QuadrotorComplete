@@ -1,0 +1,30 @@
+ros2 run quad_mpc mpc_quad mpc_hover.log
+----------------------------------------------------
+
+ros2 run quad_mpc mpc_quad mpc_CH.log
+ros2 run quad_mpc mpc_quad mpc_CV.log
+ros2 run quad_mpc mpc_quad mpc_F8H.log
+ros2 run quad_mpc mpc_quad mpc_F8VS.log
+ros2 run quad_mpc mpc_quad mpc_F8VT.log
+ros2 run quad_mpc mpc_quad mpc_HELIX.log
+
+----------------------------------------------------
+
+ros2 run quad_mpc mpc_quad mpc_triangle.log
+ros2 run quad_mpc mpc_quad mpc_sawtooth.log
+----------------------------------------------------
+
+
+ros2 run quad_mpc mpc_quad mpc_CH_2x.log
+ros2 run quad_mpc mpc_quad mpc_CV_2x.log
+ros2 run quad_mpc mpc_quad mpc_F8H_2x.log
+ros2 run quad_mpc mpc_quad mpc_F8VS_2x.log
+ros2 run quad_mpc mpc_quad mpc_F8VT_2x.log
+ros2 run quad_mpc mpc_quad mpc_HELIX_2x.log
+----------------------------------------------------
+ros2 run quad_mpc mpc_quad mpc_triangle_2x.log
+ros2 run quad_mpc mpc_quad mpc_sawtooth_2x.log
+----------------------------------------------------
+
+ros2 run quad_mpc mpc_quad mpc_CHS.log
+ros2 run quad_mpc mpc_quad mpc_HELIX_SPIN.log

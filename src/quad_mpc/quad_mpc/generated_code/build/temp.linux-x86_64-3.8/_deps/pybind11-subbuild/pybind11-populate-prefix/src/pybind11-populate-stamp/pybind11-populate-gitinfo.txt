@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=/home/factslabegmc/miniconda3/envs/wardiNN/lib/python3.8/site-packages/cmake/data/bin/cmake;-P;/home/factslabegmc/final_wardi_files/src/quad_mpc/quad_mpc/generated_code/build/temp.linux-x86_64-3.8/_deps/pybind11-subbuild/pybind11-populate-prefix/tmp/pybind11-populate-gitclone.cmake
+source_dir=/home/factslabegmc/final_wardi_files/src/quad_mpc/quad_mpc/generated_code/build/temp.linux-x86_64-3.8/_deps/pybind11-src
+work_dir=/home/factslabegmc/final_wardi_files/src/quad_mpc/quad_mpc/generated_code/build/temp.linux-x86_64-3.8/_deps
+repository=https://github.com/pybind/pybind11.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+

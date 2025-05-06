@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/tiny_codegen_example.dir/src/tiny_main.cpp.o CMakeFiles/tiny_codegen_example.dir/src/tiny_data.cpp.o -o tiny_codegen_example  libtinympcstatic.a 

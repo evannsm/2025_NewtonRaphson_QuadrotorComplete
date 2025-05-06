@@ -1,0 +1,30 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/factslabegmc/final_wardi_files/build/quad_newton_raphson",
+        "/home/factslabegmc/final_wardi_files/install/quad_newton_raphson/lib/python3.8/site-packages",
+        "/home/factslabegmc/final_wardi_files/build/quad_mpc",
+        "/home/factslabegmc/final_wardi_files/install/quad_mpc/lib/python3.8/site-packages",
+        "/home/factslabegmc/final_wardi_files/install/px4_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/px4_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_robot_gt_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_optitrack_interfaces/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_marker_viz_srvs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_control_msgs/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/factslabegmc/final_wardi_files/build/quad_newton_raphson",
+        "/home/factslabegmc/final_wardi_files/install/quad_newton_raphson/lib/python3.8/site-packages",
+        "/home/factslabegmc/final_wardi_files/build/quad_mpc",
+        "/home/factslabegmc/final_wardi_files/install/quad_mpc/lib/python3.8/site-packages",
+        "/home/factslabegmc/final_wardi_files/install/px4_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/px4_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_robot_gt_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_optitrack_interfaces/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_msgs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_marker_viz_srvs/lib/python3.8/site-packages",
+        "/home/factslabegmc/mocap_ws/install/mocap_control_msgs/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}

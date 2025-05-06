@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtinympcstatic.a CMakeFiles/tinympcstatic.dir/tinympc/admm.cpp.o CMakeFiles/tinympcstatic.dir/tinympc/tiny_api.cpp.o
+/usr/bin/ranlib libtinympcstatic.a
